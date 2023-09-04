@@ -1,0 +1,21 @@
+h1 {
+    background-color: black;
+}
+h1 span.white {
+    color: white;
+}
+h1 span.cyan {
+    color: cyan;
+}
+h2 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+h3 {
+    background-color: skyblue;
+    color: purple;
+    text-decoration: underline;
+    text-align: right;
+}
